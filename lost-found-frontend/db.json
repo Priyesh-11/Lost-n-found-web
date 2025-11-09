@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@college.edu",
+      "password": "$2a$10$8JW8WKvY8m0rS0l0GVz8Ee7Z7X8Y9Z8Y9Z8Y9Z8Y9Z8Y9Z8Y9Z8Y9",
+      "name": "Test User",
+      "enrollment_number": "EN001",
+      "phone": "9876543210"
+    }
+  ],
+  "items": []
+}
